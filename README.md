@@ -5,6 +5,11 @@ Informações do Aluno :
 Cesar Iglesias Balseiro Neto - RM : 98007
 ```
 
+```
+GitHub do Projeto do professor :
+https://github.com/carreiras/android-crypto-monitor
+```
+
 # Projeto CryptoMonitor
 
 Este projeto foi obtido diretamente do repositório GitHub do professor da disciplina de Desenvolvimento Android. O objetivo deste trabalho é descrever detalhadamente o funcionamento do projeto com o intuito de garantir nota, mostrando o entendimento de cada parte do código Kotlin envolvido.
